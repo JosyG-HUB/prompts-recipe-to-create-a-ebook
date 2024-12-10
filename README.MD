@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno.
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -30,8 +30,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Leonardo IA](https://app.leonardo.ai/auth/login)
+- [canva](https://www.canca.com)
 
 ## 🧠 Prompts
 
@@ -40,25 +40,24 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema saude mental no trabalho                                                       |
+| conteúdo | Faça um texto para ebook , com foco na saude mental no trabalho e a relação com o Neuroticismo, Doenças e Práticas para Promover o Bem-Estar Explique sempre de uma maneira simples Deixe o texto enxuto.|
 
 
-Midjourney：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma paisagem de uma praia com areas cristalinas, o dia ensolarado refletindo no mar bem azul e arvores frondosas compondo a paisagem.  |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo IA
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado para cumprir tarefa do curso`
 
 ## 🛠️ Instruções de execução
 
